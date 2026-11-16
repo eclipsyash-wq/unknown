@@ -91,16 +91,16 @@ def premium_emoji(text):
     return result
 
 SHOPIFY_APIS = [
-    "https://kirryshopi.up.railway.app/shopify",
+    "https://autoshopifychk.onrender.com/shopify?site=&cc=&proxy=",
 
 ]
 
 API_ID = 36807788
 API_HASH = 'e3a6ed05990c078b4df748fec4e5ef9d'
-BOT_TOKEN = '8999565737:AAGcUj0D3oPVayZbnKt8HBEWYlAkKnUobFQ'
-ADMIN_ID = 7325196842
-KEY_ADMINS = [7325196842]
-FREE_GROUPS = [-1003599982940]
+BOT_TOKEN = '9019817625:AAGHayUa7Al26vYMhdTav-Ynf_RT6QRHjdU'
+ADMIN_ID = 8866006557
+KEY_ADMINS = [8866006557]
+FREE_GROUPS = []
 SPAM_COOLDOWN = 180  # Free users must wait 15 seconds between /cc commands
 user_last_command = {}  # This remembers the last time they used the command
 # ============================================================
